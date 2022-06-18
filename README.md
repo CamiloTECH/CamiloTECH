@@ -2,9 +2,9 @@
 <h3 align="center">Un apasionado Full Stack Web Developer de Colombia</h3>
 <hr/>
 
-- 🔭 Actualmente estoy trabajando en **E-commerce de calzado**
+- 🔭 Actualmente estoy trabajando en **Proyectos para aprender MongoDB && Docker**
 
-- 🌱 Actualmente estoy aprendiendo **Typescript**
+- 🌱 Actualmente estoy aprendiendo **MongoDB && Docker**
 
 - 💬 Pregúntame sobre **JavaScript, React, Nodejs, SQL**
 
