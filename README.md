@@ -8,7 +8,6 @@
 
 - 💬 Pregúntame sobre **JavaScript, React, Nodejs, SQL**
 
-- 📫 Email **camilomontoya10@live.com**
 <hr/>
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
